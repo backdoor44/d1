@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "3ae46b17-e927-4b93-ad85-c0596c209336",
+			"database_name": "poopkiller"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
